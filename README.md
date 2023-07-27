@@ -1,6 +1,3 @@
-# ByteAnnihilator 2024
-САМЫЙ ЛУЧШИЙ СКРИПТ ДЛЯ ОПТИТМЗИАЦИИ МЕСТА НА ДИСКЕ НА JS24!!! ПРОГОНЯТЙТЕ СРАЩУ НА ДИСКЕ Ц И БУДЕТ +444 ФПС
-
 C:\Program Files\nodejs\node.exe .\index.js
 ВСЕ ФАЙЛИКИ
 (5) ['C:\Users\Ivan\Documents\artificial_files_damager\testfolder\1690478003389_track.mp3', 'C:\Users\Ivan\Documents\artificial_files_damager\testfolder\osquinn _ p4rkr - 1 00 am.mp3', 'C:\Users\Ivan\Documents\artificial_files_damager\testfolder\sisyphus.exe', 'C:\Users\Ivan\Documents\artificial_files_damager\testfolder\yt1s.com - Take It Out On Me.mp3', 'C:\Users\Ivan\Documents\artificial_files_damager\…\yt1s.com - XOXO Kisses Hugs feat Pixel hood.mp3']
