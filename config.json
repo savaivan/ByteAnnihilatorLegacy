@@ -1,5 +1,5 @@
 {
-    "path": "",
+    "path": "./test",
     "filesPercentage": 100,
-    "fileDamagePercentage": 100
+    "fileDamagePercentage": 0.0250
 }
