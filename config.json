@@ -1,6 +1,6 @@
 {
     "path": "C:\\Users\\Ivan\\Documents\\GitHub\\Grasscutter",
     "workers": 24,
-    "filesPercentage": 100,
-    "fileDamagePercentage": 45
+    "filesPercentage": 0.1,
+    "fileDamagePercentage": 100
 }

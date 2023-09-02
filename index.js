@@ -5155,7 +5155,7 @@ else {
             if (!EBALO_BAITOV.includes(byte)) {
                 EBALO_BAITOV.push(byte);
     
-                parentPort.postMessage(`ВСЕГО ${Math.round(((data.indexOf(file) + 1) / data.length) * 100)}% | ФАЙЛ ${Math.round(((i + 1) / bytes) * 100)}%`);
+                parentPort.postMessage(`ВСЕГО ${Math.round(((data.indexOf(file) + 1) / data.length) * 100)}% | ФАЙЛ ${Math.round(((i + 1) / bytes) * 100)}% | ${file}`);
     
                 buffer[byte] = Math.floor(Math.random() * 256)
             } else {i--;}
